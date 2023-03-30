@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{background-color: #d4ba9f}
+html{text-align: center;}
+html{font-size: 100%;}
+h1{font-family:'Alkatra', cursive;}
+h1{font-size: 4rem;}
+h2{font-family: 'Alkatra', cursive;}
+h2{font-size: 2rem;}
+p{font-family:'Alkatra', cursive;}
+p{font-weight: bold;}
+p{font-size: 20px;}
+img{border-radius: 50%;}
